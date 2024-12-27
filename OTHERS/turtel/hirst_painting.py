@@ -31,6 +31,7 @@ timmy.setheading(0)
 num_of_dots = 100
 
 
+
 for i in range(1,num_of_dots+1):
     num_of_dots += 1
     # timmy.pendown()
